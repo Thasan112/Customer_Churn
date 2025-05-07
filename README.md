@@ -1,6 +1,3 @@
-# Customer_Churn
-An analysis  for Customer segmentation and churing for a Telcom Industry
-
 
 # Customer_Churn
 Predict customer churn using telecom usage and billing data.
