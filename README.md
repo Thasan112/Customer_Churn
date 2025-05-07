@@ -1,7 +1,8 @@
 
 # Customer_Churn
 Predict customer churn using telecom usage and billing data.
-# Telecom Churn Prediction 📉
+
+# Telecom Industry Churn Prediction 📉
 
 This project analyzes a telecom dataset to understand customer churn and build predictive models that help identify which customers are at risk of leaving.
 
