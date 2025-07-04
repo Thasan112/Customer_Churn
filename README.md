@@ -71,5 +71,3 @@ Metrics used for evaluation:
 - **Random Forest** performed best with the highest AUC score.
 - Important predictors of churn `ContractRenewal`, `CustServCalls`, and `DataPlan`.
 
-## 📁 Project Structure
-
